@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeec395e-a112-4f84-bfad-a80ca1f870b9" name="Changes" comment="Day3LineComparison.java">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/DAy4_2playergame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/DAy4_2playergame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day3LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day3LineComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day3employeewagecalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day3employeewagecalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4_countdice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4_countdice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4_eansureexactend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4_eansureexactend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4_repeattill100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4_repeattill100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4_rolldice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4_rolldice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4_usingswitchcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4_usingswitchcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Day4snakeandladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Day4snakeandladder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/bridgelabz" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
